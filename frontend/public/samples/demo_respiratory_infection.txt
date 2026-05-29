@@ -1,0 +1,39 @@
+Doctor: Hi Sarah, I'm Dr. Patel. What brings you in today?
+
+Patient: Hi. I've been sick for about five days now. Started with a sore throat, then it moved into my chest. I have a really bad cough now, and I feel exhausted. I had a fever the first two days — it got up to 101.8 — but it's been normal since yesterday.
+
+Doctor: Are you bringing anything up when you cough?
+
+Patient: Yeah, yellowish-green mucus. Quite a lot of it in the mornings.
+
+Doctor: Any chest pain when you breathe?
+
+Patient: A little tightness when I take a deep breath. Not sharp, more like pressure.
+
+Doctor: Shortness of breath? Can you walk around without getting winded?
+
+Patient: I get a little short of breath going up stairs. More than usual.
+
+Doctor: Any history of asthma or lung disease?
+
+Patient: No. I'm a non-smoker. I did have a mild case of COVID about two years ago but recovered fully.
+
+Doctor: Any sick contacts?
+
+Patient: My son had something similar last week — he had strep, actually.
+
+Doctor: Let me examine you. Temperature today is 99.1. Blood pressure 118 over 74. Heart rate 88. Oxygen saturation is 97 percent on room air. Respiratory rate 18. Throat: mild posterior pharyngeal erythema, no exudate, no tonsillar swelling. Neck: no lymphadenopathy. Chest: dullness to percussion at the right lower base. Auscultation: decreased breath sounds with coarse crackles at the right lower lobe. No wheezing.
+
+Patient: Is that bad?
+
+Doctor: It tells me there's some consolidation in the right lower lobe, which is consistent with early pneumonia. I want to get a chest X-ray to confirm. Based on the clinical picture — productive cough with purulent sputum, pleuritic chest tightness, crackles, and low-grade fever — I'm treating this as community-acquired pneumonia. Your oxygen saturation is reassuring, so outpatient treatment is appropriate.
+
+Doctor: I'll prescribe doxycycline 100 milligrams twice daily for seven days — that covers atypical organisms as well. I also want you to take guaifenesin to help thin that mucus, and use a saline nasal rinse twice a day. Push fluids — at least eight glasses of water. Ibuprofen or acetaminophen as needed for the fever and discomfort. Rest. If your fever returns above 102, oxygen saturation drops below 94, or you develop significant shortness of breath at rest, go to the emergency department immediately. I want to see you back in five to seven days to confirm improvement. Do you have any allergies I should know about?
+
+Patient: Penicillin — I get hives.
+
+Doctor: Good to note. Doxycycline is safe for you. Any other questions?
+
+Patient: Should I be worried about my son spreading it to the rest of the family?
+
+Doctor: Both strep and the pneumonia bacteria are transmissible. Make sure everyone washes hands frequently, use separate cups and utensils, and wear a mask if you're caring for young children while symptomatic.

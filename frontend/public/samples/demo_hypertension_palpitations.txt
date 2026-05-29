@@ -1,0 +1,29 @@
+Doctor: Good afternoon, Mr. Chen. You're here for your blood pressure follow-up and you mentioned some new symptoms?
+
+Patient: Yes, my blood pressure has been all over the place. I've been checking it at home — mornings usually around 145 to 155 over 92 to 98. And for the past three weeks I've been getting these fluttering sensations in my chest. They last maybe 30 seconds to a minute, happen two or three times a day, and then go away. No pain, no fainting. Just that fluttering and sometimes a little lightheadedness.
+
+Doctor: Any shortness of breath during these episodes?
+
+Patient: Mild. Nothing severe.
+
+Doctor: Do they happen with exertion, at rest, or both?
+
+Patient: Both, actually. Sometimes sitting at my desk, sometimes climbing stairs.
+
+Doctor: Any recent changes in caffeine, alcohol, or stress?
+
+Patient: Work stress has been high. I've been drinking more coffee — maybe four or five cups a day. I also started a new decongestant for my allergies last month — pseudoephedrine.
+
+Doctor: That's important. Pseudoephedrine can elevate blood pressure significantly and trigger palpitations. It's a sympathomimetic. I want you to stop that today. We'll find you a safer option. What blood pressure medications are you currently on?
+
+Patient: Amlodipine 5 milligrams and losartan 50 milligrams daily.
+
+Doctor: Okay. Let me examine you. Blood pressure today is 158 over 96 — still elevated. Heart rate is 82 and irregular — I'm picking up occasional irregularity. Oxygen saturation 99 percent. Heart sounds S1 and S2 normal, no murmurs. No peripheral edema. Lungs clear. No jugular venous distension. Your EKG today shows sinus rhythm with occasional premature atrial contractions — PACs — which explains the fluttering. No ST changes, no prolonged QT.
+
+Patient: Are PACs serious?
+
+Doctor: In isolation with no structural heart disease, they're usually benign. But we need to rule out anything more significant, especially given your uncontrolled hypertension. I'd like to get an echocardiogram to check the heart structure and a 24-hour Holter monitor to see how frequent the PACs are. Basic labs: comprehensive metabolic panel, TSH — thyroid disease can cause palpitations — and a lipid panel since we haven't checked in 12 months. Stop the pseudoephedrine today. For allergies, try intranasal fluticasone instead. I'm uptitrating losartan to 100 milligrams and increasing amlodipine to 10 milligrams. Reduce caffeine to one or two cups per day maximum. Thirty minutes of moderate walking five days a week. Follow up in four weeks to review Holter results and repeat blood pressure. If you have a palpitation episode that lasts longer than five minutes, feels like a racing heart above 150 beats per minute, or is associated with chest pain or fainting, go to the emergency department immediately. Any questions?
+
+Patient: Can I keep exercising? I do light jogging.
+
+Doctor: Yes, light jogging is fine and actually beneficial. Just stop to rest if you feel the fluttering while running.

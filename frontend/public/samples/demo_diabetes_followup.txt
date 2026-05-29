@@ -1,0 +1,35 @@
+Doctor: Good morning, Mr. Alvarez. Come on in. How have you been managing since your last visit three months ago?
+
+Patient: Honestly, not great, Doctor. My blood sugars have been all over the place. My morning readings are usually between 160 and 200, and some days after lunch they spike to 240, 250.
+
+Doctor: Are you taking your metformin consistently?
+
+Patient: Most days, yes. I do miss it occasionally, maybe twice a week. I also started working nights last month and my eating schedule is completely off.
+
+Doctor: That will definitely affect glycemic control. Any hypoglycemic episodes — dizziness, sweating, shakiness?
+
+Patient: Yeah, a couple of times around 3 a.m. when I forget to eat. Nothing serious, I just drank some juice and it passed.
+
+Doctor: Are you checking your feet regularly?
+
+Patient: Not really. My wife mentioned my right heel looks a little dry and cracked.
+
+Doctor: I'll take a look at that. How's your vision been?
+
+Patient: A little blurry in the mornings, but it goes away after an hour.
+
+Doctor: And have you had any chest pain or shortness of breath?
+
+Patient: No, nothing like that.
+
+Doctor: Alright. I'm going to do a quick exam. Blood pressure is 138 over 86 — a little elevated. Heart rate 78 and regular. Lungs clear. Feet: there is mild xerosis bilaterally, a small fissure on the right heel, no signs of infection, sensation intact with monofilament testing. Your HbA1c from last week's labs came back at 9.2 percent. Fasting glucose was 188. Kidney function is fine, eGFR 74. Microalbuminuria was borderline at 32 micrograms per milligram. LDL is 118.
+
+Patient: That sounds bad. Is 9.2 really high?
+
+Doctor: It's higher than we want. Our target is under 7 percent. The night shift is complicating things, but we can work with that.
+
+Doctor: Here's the plan. I want to increase your metformin to 1000 milligrams twice daily with meals. I'm also adding empagliflozin 10 milligrams once daily — it will help with both blood sugar and blood pressure, and it has cardiovascular and kidney benefits. For your heel, use a urea-based emollient cream twice daily and wear cushioned socks. I want you checking your blood sugar twice a day — fasting and two hours after your largest meal. Keep a log. Also, we're going to start a low-dose ACE inhibitor — lisinopril 5 milligrams daily — for the borderline albuminuria and blood pressure. Continue atorvastatin 20 milligrams. I want you back in six weeks for a repeat blood pressure check and to see how the empagliflozin is going. We'll repeat HbA1c in three months. Ophthalmology referral for a dilated eye exam — that morning blurriness needs to be evaluated. Diabetes education referral as well. Any questions?
+
+Patient: Can I still have fruit?
+
+Doctor: Yes, in moderation. Berries are best. Avoid fruit juice — that's what's causing those 3 a.m. lows if you're using it to treat them. We'll go over all of this with the diabetes educator.
