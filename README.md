@@ -17,7 +17,7 @@
 
 **Convert doctor–patient conversations into structured SOAP notes, ICD-10 codes, and visit summaries — in under 15 seconds.**
 
-[🚀 Live Demo](https://clinicaldoc-ai.vercel.app) · [📖 Docs](#-quick-start) · [🐛 Report Bug](https://github.com/rishi-2399/clinicaldoc_AI/issues) · [✨ Request Feature](https://github.com/rishi-2399/clinicaldoc_AI/issues)
+[🚀 Live Demo](https://clinicaldoc-ai.vercel.app) · [📖 Docs](#-quick-start) · [🐛 Report Bug](https://github.com/rishi-2399/clinicaldoc_AI/issues) · [✨ Request Feature](https://github.com/rishi-2399/clinicaldoc_AI/issues) · [📷 Demo Video](https://drive.google.com/file/d/1cY4rKUK5GjcRrVIfUv6oKZIjo61aZ_O1/view?usp=sharing)
 
 </div>
 
